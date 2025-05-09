@@ -1,5 +1,5 @@
 <?php
-include 'db_connection.php';
+include 'db_connection2.php';
 
 // Saat dilimini İstanbul olarak ayarla
 date_default_timezone_set('Europe/Istanbul');

@@ -1,7 +1,7 @@
 <?php
 // send_forum_message.php
 
-require_once 'db_connection.php';
+require_once 'db_connection2.php';
 
 $data = json_decode(file_get_contents('php://input'), true);
 

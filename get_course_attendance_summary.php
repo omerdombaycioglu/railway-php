@@ -1,6 +1,6 @@
 <?php
 header('Content-Type: application/json');
-require_once 'db_connection.php';
+require_once 'db_connection2.php';
 
 $courseId = $_GET['course_id'];
 
