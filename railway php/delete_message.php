@@ -1,7 +1,7 @@
 <?php
 // delete_message.php
 
-require_once 'db_connection.php';
+require_once 'db_connection2.php';
 
 header('Content-Type: application/json');
 
