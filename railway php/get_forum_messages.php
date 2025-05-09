@@ -1,7 +1,7 @@
 <?php
 // get_forum_messages.php
 
-require_once 'db_connection.php';
+require_once 'db_connection2.php';
 
 $course_id = $_GET['course_id'];
 
